@@ -1,0 +1,121 @@
+#logo1 {
+	background:url(images/Hp1.jpg ) no-repeat #78ce31 ;
+	width = "100px";
+	height="100px"
+}
+#logo2 {
+	background:url(images/Dell1.jpg ) no-repeat #78ce31 ;
+	width = "100px";
+	height="100px"
+}
+#logo3 {
+	background:url(images/Acer1.jpg ) no-repeat #78ce31 ;
+	width = "100px";
+	height="100px"
+}
+#logo4 {
+	background:url(images/Samsung1.jpg ) no-repeat #78ce31 ;
+	width = "100px";
+	height="100px"
+}
+#logo5 {
+	background:url(images/Asus1.jpg) no-repeat #78ce31 ;
+	width = "100px";
+	height="100px"
+}
+#logo6 {
+	background:url(images/Vaio1.jpg ) no-repeat #78ce31 ;
+	width = "100px";
+	height="100px"
+}
+#menu { 
+background:#70c32e; 
+height:21px; 
+width:600px;
+ margin: 0 auto;
+ clear:both; 
+ border:1px solid #a8f534;
+ text-align:center;  
+ color:#fff;
+ padding-top:4px;}
+#logo_text { 
+float:right;
+ width:200px; 
+ height:80px;
+ 
+ margin:40px 20px 53px 0; 
+ font-family: Tahoma, Arial; 
+ font-size:11px;
+ color:#fff;
+ padding:10px; 
+ font-weight:bold; }
+ #diva{
+    float: left;
+  width: 330px;
+   height: 330px;
+   background-color: lightgrey;
+    border: 5px solid black;
+    padding: 25px;
+    margin: 25px;
+}
+#diva1{
+  max-width: 1200px;
+   height: 1000px;
+   background-color: lightgrey;
+    border: 5px solid blue;
+    padding: 25px;
+    margin: 25px;
+}
+#diva2{
+	text-align=center;
+	float=center;
+    max-width: 1200px;
+   height: 300px;
+   background-color: white;
+    border: 5px solid black;
+    padding: 25px;
+    margin: 25px;
+}
+.Para{
+	width:400px;
+	position:relative;
+	top:-300px;
+	left:300px;
+	display:inline-block;
+	}
+	#pre1{
+width:110px;	
+color:blue;
+font-size:30px;
+float:left;
+background-color:lightgrey;
+border: 3px solid black;
+padding: 10px;
+margin: 25px;
+}
+
+
+	#pre3{
+width:110px;	
+color:blue;
+font-size:30px;
+float:right;
+background-color:lightgrey;
+border: 3px solid black;
+padding: 10px;
+margin: 25px;
+}
+#dina{
+	text-align:center;
+	float:center;
+    width: 1200px;
+   height: 100px;
+   background-color: lightgrey;
+    border: 5px solid black;
+    padding: 25px;
+    margin: 25px;
+}
+#img1{
+	width="350px";
+	height="250px";
+}

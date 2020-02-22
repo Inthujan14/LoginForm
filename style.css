@@ -1,0 +1,195 @@
+#thusha{
+color:green;
+font-size:50px;
+background-color: lightgrey;
+border: 2px solid black;
+padding: 10px;
+margin: 25px;
+text-align:center;
+}
+#thusha1{
+color:blue;
+font-size:50px;
+background-color: lightgrey;
+border: 2px solid black;
+padding: 10px;
+margin: 25px;
+text-align:center;
+}
+#shana1:hover {
+	content : url("dell/images (4).jpg");
+}
+#shana2:hover {
+	content : url("hp/hp2.jpg");
+}
+#shana3:hover {
+	content : url("acer/imagesxf.jpg");
+}
+#shana4:hover {
+	content : url("samsung/sam2.jpg");
+}
+#shana5:hover {
+	content : url("asus/asus2.jpg");
+}
+#shana6:hover {
+	content : url("vaio/vaio2.jpg");
+}
+
+a:link {
+    color: green;
+   text-align:center;
+   text-decoration:none;
+}
+
+a:visited{
+    color: green;
+}
+
+a:hover {
+    color: #ff00ff;
+}
+
+a:active {
+    color: blue;
+}
+
+#inthu{
+font-style:bold;
+font-size:50px;
+color:blue;
+text-align:center;
+text-shadow: 3px 2px green;
+}
+
+
+.city {
+   float: left;
+   width: 520px;
+   height: 550px;
+   background-color: lightgrey;
+   border: 15px solid #cc0066;
+   padding: 25px;
+   margin: 25px;
+}  
+#raj{
+color:red;
+font-size:50px;
+background-color:lightgrey;
+   border: 8px solid black;
+   padding:25px;
+   margin: 25px;
+   text-shadow: 3px 2px green;
+   text-align:center;
+   background-image: url("images/images (3).jpg");
+}
+footer {
+    padding: 1em;
+    color: white;
+    background-color: #ff6666;
+    clear: left;
+    text-align: center;
+} 
+
+ #container {
+	width: 400px;
+	height: 240px;
+	border: 1px solid black;
+	margin: 0 auto;
+	position: relative;
+	background-color:#ffccff;
+}
+
+#container>img {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+}
+
+#container>.btn {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	border: none;
+	border-radius: 25px;
+	background:#ff99cc;
+	color: white;
+	font-size: 20px;
+	top: 100px
+}
+
+#container>#btn1:hover{
+	box-shadow: 10px 0 20px 0 black;
+}
+
+#container>#btn2:hover{
+	box-shadow: -10px 0 20px 0 black;
+}
+
+ #container>#btn2 {
+	position: relative;
+	float: right;
+}
+.city5 {
+   float: left;
+   width: 320px;
+   height: 300px;
+   background-color: lightgrey;
+   border: 10px solid #cc0066;
+   padding: 25px;
+   margin: 25px;
+} 
+#mayu{
+	font-size:25px;
+	color:#ff6666;
+	text-align:left;
+	text-decoration:bold;
+	
+}
+#mayu1{
+	font-size:50px;
+	color:#666600;
+	text-align:center;
+	text-decoration:bold;
+	float: left;
+   width: 1200px;
+   height: 800px;
+   background-color: white;
+   border: 8px solid #cc0066;
+   padding: 25px;
+   margin: 25px;
+	
+}
+#thusha2{
+color:blue;
+font-size:50px;
+background-color: white;
+border: 2px solid black;
+padding: 10px;
+margin: 5px;
+text-align:center;
+}
+
+
+
+
+#diva4{
+	text-align:center;
+	float:center;
+    width: 1200px;
+   height: 700px;
+   background-color:#99ff99;
+    border: 5px solid black;
+    padding: 25px;
+    margin: 25px;
+}
+#diva10{
+	text-align:center;
+	float:center;
+    width: 1200px;
+   height: 500px;
+   background-color:#99ff99;
+    border: 5px solid black;
+    padding: 25px;
+    margin: 25px;
+}
+
